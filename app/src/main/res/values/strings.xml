@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MindMap</string>
+    <string name="Play">Play</string>
+    <string name="FruitSaga">Welcome</string>
+    <string name="Start">Start</string>
+    <string name="HighScore">High Score :</string>
+    <string name="GameScore">Game Score :</string>
+    <string name="PlayAgain">Play Again</string>
+</resources>
